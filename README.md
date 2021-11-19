@@ -2,9 +2,9 @@
 
 ##### HOW TO RUN THE PROJECT#####
 
-1. Download and unpack the AlexLin_3310Project2.zip file
+1. Download and unpack the zip file
 
-2. Place the AlexLin_3310Project2 in your home directory
+2. Place the file in your home directory
    From cmd: 
 
 3. cd src
@@ -13,7 +13,7 @@
 
 	OR
    open VSC
-   File > open folder > AlexLin_3310Project2
+   File > open folder > Knap&Kruskal
 
 	--To open Fractional Knapsack--
 
